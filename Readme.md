@@ -1,10 +1,10 @@
-Personal Expense Tracker (C++)
+## Personal Expense Tracker (C++)
 
 --------
 
 A simple console-based personal expense tracker written in C++. This application allows users to add, view, calculate total, and save their personal expenses using a CSV file. Perfect for beginners and those who want to showcase basic C++ skills including OOP, file handling, and user input validation.
 
-Features
+## Features
 
 Add Expense: Record a new expense with date, category, amount, and description.
 
@@ -18,7 +18,7 @@ User-friendly input validation: Prevents crashes on invalid input.
 
 --------
 
-Usage
+## Usage
 
 Run the application.
 
@@ -36,18 +36,7 @@ Data is automatically saved to expenses.csv.
 
 ---------
 
-File Structure
-
-
-/personal-expense-tracker
-│
-├─ main.cpp       # Main source file
-├─ expenses.csv   # Stores expense data (auto-generated)
-└─ README.md      # Project documentation
-
----------
-
-Technologies Used
+## Technologies Used 
 
 C++ (OOP concepts)
 
