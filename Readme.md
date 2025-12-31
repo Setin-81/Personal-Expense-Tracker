@@ -24,15 +24,23 @@ Run the application.
 
 Choose an option from the menu:
 
-1 Add a new expense
+1 Add a new expense:
+
+
 ![App Screenshot](img-1.png)
 
 
-2 View all expenses
+2 View all expenses:
 
-3 Calculate total expenses
+![App Screenshot](img-2.png)
+
+3 Calculate total expenses:
+
+![App Screenshot](img-3.png)
 
 4 Save & Exit
+
+![App Screenshot](img-4.png)
 
 Data is automatically saved to expenses.csv.
 
