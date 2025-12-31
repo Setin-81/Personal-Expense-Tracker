@@ -25,6 +25,8 @@ Run the application.
 Choose an option from the menu:
 
 1 Add a new expense
+![App Screenshot](img-1.png)
+
 
 2 View all expenses
 
