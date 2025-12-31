@@ -1,4 +1,5 @@
-## Personal Expense Tracker (C++)
+## Personal Expense Tracker (C++)  
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
 
 --------
 
